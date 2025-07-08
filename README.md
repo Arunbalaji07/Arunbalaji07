@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi there! I'm Arun Balaji<br><br>🌱 I’m a passionate software developer who loves building efficient, scalable, and user-friendly applications.  <br>💡 I'm always curious and constantly learning new things — from languages and frameworks to tools and best practices.  <br>🤝 I enjoy contributing to open-source projects and collaborating with like-minded developers.  <br>📈 I believe in writing clean, maintainable code and growing a little every day.
+### 👋 Hi there! I'm Arun Balaji<br><br>🌱 I’m a passionate software developer who loves building efficient, scalable, and user-friendly applications.  <br>💡 I'm always curious and constantly learning new things — from languages and frameworks to tools and best practices.  <br>🤝 I enjoy contributing to open-source projects and collaborating with like-minded developers.  <br>📈 I believe in writing clean, maintainable code and growing a little every day.
 
 
 ## 🌐 Socials:
